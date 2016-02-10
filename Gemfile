@@ -6,6 +6,7 @@ gem 'sinatra'
 gem 'sinatra-contrib'
 gem 'haml'
 gem 'puma'
+gem 'foreman'
 
 group :test do
   gem 'rspec'
