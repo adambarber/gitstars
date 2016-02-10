@@ -1,0 +1,30 @@
+@import "./utils/reset.less";
+
+@import "./components/header.less";
+@import "./components/user_search.less";
+@import "./components/user_display.less";
+@import "./components/repo_display.less";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 120px 0 0 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.primary {
+  width: 90%;
+  margin: auto;
+  min-width: 1100px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 1em 0;
+  &:last-child {
+    margin: 0;
+  }
+}
