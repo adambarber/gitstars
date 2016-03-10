@@ -1,4 +1,4 @@
-# GitStars
+# GitStars [![codebeat](https://codebeat.co/badges/e526dcaa-ce79-4011-9cda-9786a03568e3)](https://codebeat.co/projects/github-com-adambarber-gitstars)
 
 Two Github users walk in... only one walks out a winner!
 
